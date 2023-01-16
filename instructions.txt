@@ -1,0 +1,2 @@
+for push
+1) git add file_name.extention
