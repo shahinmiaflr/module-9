@@ -1,2 +1,5 @@
 for push
 1) git add file_name.extention
+2) write code
+3) git commint -m ""
+4) git push
